@@ -26,7 +26,7 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Fashion-response-page1](https://alisdhameliya.github.io/Fasion-page1/)                             | [Live Demo](https://alisdhameliya.github.io/Fasion-page1/)|
 
-| 02  | [Fashion-page2](https://alisdhameliya.github.io/fasion-page2/)                             | [Live Demo](https://alisdhameliya.github.io/fasion-page2/)|
+| 02  | [Fashion-page2](https://alisdhameliya.github.io/fasion-page2/)                                      | [Live Demo](https://alisdhameliya.github.io/fasion-page2/)|
 <!--
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
