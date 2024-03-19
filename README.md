@@ -24,7 +24,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Fashion-response-page1](https://alisdhameliya.github.io/Fasion-page1/)                             | [Live Demo](https://alisdhameliya.github.io/Fasion-page1/)               |
+| 01  | [Fashion-response-page1](https://alisdhameliya.github.io/Fasion-page1/)                             | [Live Demo](https://alisdhameliya.github.io/Fasion-page1/)|
 
 <!--
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
