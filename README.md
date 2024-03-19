@@ -24,7 +24,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Fashion-response-page1](https://alisdhameliya.github.io/Fasion-page1/)                             | [Live Demo](https://alisdhameliya.github.io/Fasion-page1/)|
+| 01  | [Fashion-response-page1](https://alisdhameliya.github.io/Fasion-page1/)                             | [Live Demo](https://alisdhameliya.github.io/Fasion-page1/)
 
 | 02  | [Fashion-page2](https://alisdhameliya.github.io/fasion-page2/)                                      | [Live Demo](https://alisdhameliya.github.io/fasion-page2/)|
 <!--
