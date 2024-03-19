@@ -24,7 +24,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://alisdhameliya.github.io/Fasion-page1/)                                                            | [Live Demo]
+| 01  | [Expanding Cards](https://alisdhameliya.github.io/Fasion-page1/)]                                                            | [Live Demo]
 (https://alisdhameliya.github.io/Fasion-page1/)               |
 
 <!--
