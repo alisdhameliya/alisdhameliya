@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-<!--- 👨‍💻 All of my projects are available at [alisdhameliya.github.io/port_folio/](alisdhameliya.github.io/port_folio/) -->
+👨‍💻 All of my projects are available at [alisdhameliya.github.io/portfolio/](alisdhameliya.github.io/portfolio/)
 
 - 💬 Ask me about **React, gsap ,MEARN stack**
 
